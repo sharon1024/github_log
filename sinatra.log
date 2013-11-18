@@ -1,0 +1,97 @@
+[2013-11-17 02:33:59] INFO  WEBrick 1.3.1
+[2013-11-17 02:33:59] INFO  ruby 2.0.0 (2013-06-27) [i686-linux]
+[2013-11-17 02:33:59] INFO  WEBrick::HTTPServer#start: pid=32646 port=8080
+166.111.132.196 - - [17/Nov/2013 02:34:01] "GET /submit.html HTTP/1.1" 404 452 0.0301
+166.111.132.196 - - [17/Nov/2013 02:34:04] "GET /cq.html HTTP/1.1" 200 5034 0.0019
+166.111.132.196 - - [17/Nov/2013 02:34:04] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [17/Nov/2013 02:34:04] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [17/Nov/2013 02:34:04] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [17/Nov/2013 02:34:05] "GET /images/body-bg.jpg HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [17/Nov/2013 02:34:22] "GET /submit.html HTTP/1.1" 404 452 0.0016
+[2013-11-17 03:33:19] INFO  WEBrick 1.3.1
+[2013-11-17 03:33:19] INFO  ruby 2.0.0 (2013-06-27) [i686-linux]
+[2013-11-17 03:33:19] INFO  WEBrick::HTTPServer#start: pid=895 port=8080
+166.111.132.196 - - [17/Nov/2013 03:33:22] "GET /cq.html HTTP/1.1" 304 - 0.0188
+166.111.132.196 - - [17/Nov/2013 03:33:56] "GET /index_.html HTTP/1.1" 404 452 0.0017
+166.111.132.196 - - [17/Nov/2013 03:34:04] "GET /index.html HTTP/1.1" 200 2437 0.0015
+166.111.132.196 - - [17/Nov/2013 03:34:20] "GET /index.html HTTP/1.1" 304 - 0.0011
+166.111.132.196 - - [17/Nov/2013 03:34:20] "GET /app.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [17/Nov/2013 03:34:20] "GET /img/bower-logo.png HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [17/Nov/2013 03:34:20] "GET /favicon.ico HTTP/1.1" 200 1150 0.0020
+166.111.132.196 - - [17/Nov/2013 03:34:22] "GET /index.html HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [17/Nov/2013 03:34:22] "GET /app.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [17/Nov/2013 03:34:22] "GET /img/bower-logo.png HTTP/1.1" 304 - 0.0008
+[2013-11-17 03:40:42] INFO  WEBrick 1.3.1
+[2013-11-17 03:40:42] INFO  ruby 2.0.0 (2013-06-27) [i686-linux]
+[2013-11-17 03:40:42] INFO  WEBrick::HTTPServer#start: pid=1093 port=8080
+166.111.132.196 - - [17/Nov/2013 03:40:45] "GET /cq.html HTTP/1.1" 304 - 0.0221
+166.111.132.196 - - [17/Nov/2013 03:40:51] "GET / HTTP/1.1" 401 15 0.0248
+166.111.132.196 - - [17/Nov/2013 03:41:01] "GET /cq.html HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [17/Nov/2013 03:41:01] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0011
+166.111.132.196 - - [17/Nov/2013 03:41:02] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0011
+166.111.132.196 - - [17/Nov/2013 03:41:02] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [17/Nov/2013 03:41:10] "GET /cq.html HTTP/1.1" 200 5034 0.0016
+166.111.132.196 - - [17/Nov/2013 03:41:10] "GET /stylesheets/stylesheet.css HTTP/1.1" 200 8753 0.0055
+166.111.132.196 - - [17/Nov/2013 03:41:10] "GET /stylesheets/pygment_trac.css HTTP/1.1" 200 4168 0.0041
+166.111.132.196 - - [17/Nov/2013 03:41:11] "GET /stylesheets/print.css HTTP/1.1" 200 3243 0.0014
+166.111.132.196 - - [17/Nov/2013 03:41:13] "GET /images/body-bg.jpg HTTP/1.1" 200 3188 0.0018
+166.111.132.196 - - [17/Nov/2013 03:41:14] "GET /favicon.ico HTTP/1.1" 200 1150 0.0016
+166.111.132.196 - - [17/Nov/2013 06:14:59] "GET /submit.html HTTP/1.1" 200 5034 0.0018
+166.111.132.196 - - [17/Nov/2013 06:15:10] "POST /upload HTTP/1.1" 200 613 1.0251
+166.111.132.196 - - [17/Nov/2013 06:15:15] "GET /output.html HTTP/1.1" 200 3795 0.0028
+60.173.14.88 - - [17/Nov/2013 06:26:01] "GET / HTTP/1.1" 401 15 0.0022
+[2013-11-17 06:26:02] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [17/Nov/2013 07:40:59] "GET / HTTP/1.1" 401 15 0.0015
+[2013-11-17 07:40:59] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [17/Nov/2013 10:22:51] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-17 10:22:51] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+89.46.161.210 - - [17/Nov/2013 10:36:26] "GET /w00tw00t.at.ISC.SANS.Win32:) HTTP/1.1" 404 503 0.0017
+151.236.14.140 - - [17/Nov/2013 11:14:43] "GET /azenv.php HTTP/1.1" 404 453 0.0016
+[2013-11-17 11:15:04] ERROR bad Request-Line `\x04\x01\x00PÆ1BŠ0\x00'.
+[2013-11-17 11:15:24] ERROR bad Request-Line `\x05\x01\x00'.
+60.173.14.88 - - [17/Nov/2013 13:05:32] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-17 13:05:33] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [17/Nov/2013 14:53:02] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-17 14:53:02] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+185.5.97.100 - - [17/Nov/2013 18:57:47] "GET /search?q=site%3Awp.pl HTTP/1.1" 404 442 0.0016
+222.186.56.18 - - [17/Nov/2013 21:06:11] "GET /manager/html HTTP/1.1" 404 453 0.0015
+166.111.132.196 - - [18/Nov/2013 01:00:22] "GET / HTTP/1.1" 401 15 0.0012
+166.111.132.196 - - [18/Nov/2013 01:00:24] "GET / HTTP/1.1" 401 15 0.0012
+166.111.132.196 - - [18/Nov/2013 01:00:30] "GET / HTTP/1.1" 401 15 0.0014
+166.111.132.196 - - [18/Nov/2013 01:00:35] "GET / HTTP/1.1" 401 15 0.0015
+166.111.132.196 - - [18/Nov/2013 01:01:26] "GET / HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [18/Nov/2013 01:01:26] "GET /app.css HTTP/1.1" 304 - 0.0009
+166.111.132.196 - - [18/Nov/2013 01:01:26] "GET /img/bower-logo.png HTTP/1.1" 304 - 0.0009
+166.111.132.196 - - [18/Nov/2013 01:01:28] "GET /submit.html HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [18/Nov/2013 01:01:28] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0009
+166.111.132.196 - - [18/Nov/2013 01:01:28] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [18/Nov/2013 01:01:28] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0009
+166.111.132.196 - - [18/Nov/2013 01:01:28] "GET /images/body-bg.jpg HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [18/Nov/2013 01:01:39] "POST /upload HTTP/1.1" 200 613 1.0598
+14.17.34.185 - - [18/Nov/2013 01:02:20] "GET / HTTP/1.1" 401 15 0.0022
+166.111.132.90 - - [18/Nov/2013 01:02:31] "GET / HTTP/1.1" 401 15 0.0020
+166.111.132.90 - - [18/Nov/2013 01:02:45] "GET / HTTP/1.1" 200 2437 0.0021
+166.111.132.90 - - [18/Nov/2013 01:02:45] "GET /app.css HTTP/1.1" 200 3761 0.0017
+166.111.132.90 - - [18/Nov/2013 01:02:45] "GET /img/bower-logo.png HTTP/1.1" 200 23176 0.0121
+166.111.132.90 - - [18/Nov/2013 01:02:46] "GET /favicon.ico HTTP/1.1" 200 1150 0.0019
+166.111.132.90 - - [18/Nov/2013 01:03:00] "GET /submit.html HTTP/1.1" 200 5034 0.0022
+166.111.132.90 - - [18/Nov/2013 01:03:00] "GET /stylesheets/stylesheet.css HTTP/1.1" 200 8753 0.0021
+166.111.132.90 - - [18/Nov/2013 01:03:00] "GET /stylesheets/pygment_trac.css HTTP/1.1" 200 4168 0.0015
+166.111.132.90 - - [18/Nov/2013 01:03:00] "GET /stylesheets/print.css HTTP/1.1" 200 3243 0.0015
+166.111.132.90 - - [18/Nov/2013 01:03:01] "GET /images/body-bg.jpg HTTP/1.1" 200 3188 0.0023
+166.111.132.90 - - [18/Nov/2013 01:03:05] "GET /example.cpp HTTP/1.1" 200 1495 0.0016
