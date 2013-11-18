@@ -1,4 +1,5 @@
 #!/bin/bash  
+cp ../reminer/sinatra.log .
 git add .  
 #read -p "Commit description: " desc  
 #git commit -m "$desc"  
