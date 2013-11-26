@@ -95,3 +95,672 @@
 166.111.132.90 - - [18/Nov/2013 01:03:00] "GET /stylesheets/print.css HTTP/1.1" 200 3243 0.0015
 166.111.132.90 - - [18/Nov/2013 01:03:01] "GET /images/body-bg.jpg HTTP/1.1" 200 3188 0.0023
 166.111.132.90 - - [18/Nov/2013 01:03:05] "GET /example.cpp HTTP/1.1" 200 1495 0.0016
+166.111.132.90 - - [18/Nov/2013 01:04:05] "POST /upload HTTP/1.1" 200 585 1.0408
+166.111.132.196 - - [18/Nov/2013 03:22:39] "GET /example.cpp HTTP/1.1" 200 1495 0.2396
+61.147.112.88 - - [18/Nov/2013 04:06:39] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [18/Nov/2013 05:33:25] "GET / HTTP/1.1" 401 15 0.0015
+[2013-11-18 05:33:25] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+117.220.21.29 - - [18/Nov/2013 06:37:18] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-18 06:37:19] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [18/Nov/2013 06:59:24] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-18 06:59:25] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+192.74.250.85 - - [18/Nov/2013 07:22:54] "GET /manager/html HTTP/1.1" 404 453 0.0185
+89.46.161.210 - - [18/Nov/2013 09:16:40] "GET /w00tw00t.at.ISC.SANS.Win32:) HTTP/1.1" 404 503 0.0015
+60.173.14.88 - - [18/Nov/2013 09:27:21] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-18 09:27:21] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+162.218.30.213 - - [18/Nov/2013 10:31:26] "GET /manager/html HTTP/1.1" 404 453 0.0015
+60.173.14.88 - - [18/Nov/2013 11:23:47] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-18 11:23:47] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+61.161.164.77 - - [18/Nov/2013 11:55:21] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [18/Nov/2013 12:42:47] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-18 12:42:47] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [18/Nov/2013 14:32:10] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-18 14:32:10] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+111.74.122.19 - - [18/Nov/2013 15:04:42] "GET /manager/html HTTP/1.1" 404 453 0.0015
+61.160.200.54 - - [18/Nov/2013 15:12:22] "GET /manager/html HTTP/1.1" 404 453 0.0015
+61.160.200.54 - - [18/Nov/2013 15:16:25] "GET /manager/html HTTP/1.1" 404 453 0.0016
+61.160.200.54 - - [18/Nov/2013 16:20:08] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [18/Nov/2013 16:39:45] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-18 16:39:45] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [19/Nov/2013 00:17:23] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-19 00:17:23] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+5.165.80.38 - - [19/Nov/2013 01:37:45] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-19 01:37:59] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2013-11-19 01:37:59] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2013-11-19 01:55:38] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+222.197.2.1 - - [19/Nov/2013 01:55:39] "GET / HTTP/1.1" 401 15 0.0013
+125.164.240.146 - - [19/Nov/2013 01:57:25] "GET / HTTP/1.1" 401 15 0.0014
+[2013-11-19 01:57:34] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+222.187.96.17 - - [19/Nov/2013 02:39:41] "GET / HTTP/1.1" 401 15 0.0014
+[2013-11-19 02:39:53] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [19/Nov/2013 02:44:47] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-19 02:44:48] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+61.19.147.75 - - [19/Nov/2013 02:52:23] "GET / HTTP/1.1" 401 15 0.0014
+166.111.132.196 - - [19/Nov/2013 02:54:16] "GET / HTTP/1.1" 304 - 0.0117
+166.111.132.196 - - [19/Nov/2013 02:54:16] "GET /app.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [19/Nov/2013 02:54:16] "GET /img/bower-logo.png HTTP/1.1" 304 - 0.0193
+166.111.132.196 - - [19/Nov/2013 02:54:44] "GET /submit.html HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [19/Nov/2013 02:54:45] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0167
+166.111.132.196 - - [19/Nov/2013 02:54:45] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0009
+166.111.132.196 - - [19/Nov/2013 02:54:45] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [19/Nov/2013 02:54:45] "GET /images/body-bg.jpg HTTP/1.1" 304 - 0.0099
+166.111.132.196 - - [19/Nov/2013 02:56:46] "POST /upload HTTP/1.1" 200 613 2.3689
+166.111.132.196 - - [19/Nov/2013 02:56:51] "GET /output.html HTTP/1.1" 200 3795 0.0023
+60.173.14.88 - - [19/Nov/2013 04:23:26] "GET / HTTP/1.1" 401 15 0.0020
+[2013-11-19 04:23:27] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+166.111.132.196 - - [19/Nov/2013 05:15:28] "POST /upload HTTP/1.1" 200 613 1.0259
+60.173.14.88 - - [19/Nov/2013 06:11:04] "GET / HTTP/1.1" 401 15 0.0027
+[2013-11-19 06:11:04] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+78.31.71.236 - - [19/Nov/2013 06:36:52] "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1" 404 503 0.0032
+166.111.132.196 - - [19/Nov/2013 07:51:17] "POST /upload HTTP/1.1" 200 419 1.6804
+166.111.132.196 - - [19/Nov/2013 07:51:25] "GET /cq.html HTTP/1.1" 304 - 0.0021
+166.111.132.196 - - [19/Nov/2013 07:51:37] "POST /upload HTTP/1.1" 200 419 1.6680
+[2013-11-19 07:55:17] INFO  WEBrick 1.3.1
+[2013-11-19 07:55:17] INFO  ruby 2.0.0 (2013-06-27) [i686-linux]
+[2013-11-19 07:55:17] INFO  WEBrick::HTTPServer#start: pid=30740 port=8080
+166.111.132.196 - - [19/Nov/2013 07:55:59] "POST /upload HTTP/1.1" 200 621 15.0967
+[2013-11-19 07:57:52] INFO  WEBrick 1.3.1
+[2013-11-19 07:57:52] INFO  ruby 2.0.0 (2013-06-27) [i686-linux]
+[2013-11-19 07:57:52] INFO  WEBrick::HTTPServer#start: pid=30922 port=8080
+166.111.132.196 - - [19/Nov/2013 07:57:56] "GET /submit.html HTTP/1.1" 304 - 0.0227
+166.111.132.196 - - [19/Nov/2013 07:57:57] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0013
+166.111.132.196 - - [19/Nov/2013 07:57:57] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0009
+166.111.132.196 - - [19/Nov/2013 07:57:57] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0011
+166.111.132.196 - - [19/Nov/2013 07:57:57] "GET /favicon.ico HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [19/Nov/2013 07:58:17] "POST /upload HTTP/1.1" 200 619 10.0304
+166.111.132.196 - - [19/Nov/2013 07:58:20] "GET /submit.html HTTP/1.1" 200 5034 0.0135
+166.111.132.196 - - [19/Nov/2013 07:58:21] "GET /stylesheets/stylesheet.css HTTP/1.1" 200 8753 0.0116
+166.111.132.196 - - [19/Nov/2013 07:58:21] "GET /stylesheets/pygment_trac.css HTTP/1.1" 200 4168 0.0164
+166.111.132.196 - - [19/Nov/2013 07:58:22] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [19/Nov/2013 07:58:23] "GET /images/body-bg.jpg HTTP/1.1" 304 - 0.0011
+166.111.132.196 - - [19/Nov/2013 07:58:36] "POST /upload HTTP/1.1" 401 15 0.0026
+166.111.132.196 - - [19/Nov/2013 07:58:46] "POST /upload HTTP/1.1" 401 15 0.0021
+166.111.132.196 - - [19/Nov/2013 07:58:50] "POST /upload HTTP/1.1" 401 15 0.0022
+166.111.132.196 - - [19/Nov/2013 07:58:52] "POST /upload HTTP/1.1" 401 15 0.0022
+166.111.132.196 - - [19/Nov/2013 08:01:50] "POST /upload HTTP/1.1" 200 426 109.8844
+166.111.132.196 - - [19/Nov/2013 08:01:51] "POST /upload HTTP/1.1" 200 426 111.3648
+166.111.132.196 - - [19/Nov/2013 08:02:05] "GET /output.html HTTP/1.1" 200 3795 0.0019
+89.46.161.210 - - [19/Nov/2013 08:05:41] "GET /w00tw00t.at.ISC.SANS.Win32:) HTTP/1.1" 404 503 0.0016
+60.173.14.88 - - [19/Nov/2013 08:10:49] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-19 08:10:50] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+222.186.56.7 - - [19/Nov/2013 08:13:11] "GET /manager/html HTTP/1.1" 404 453 0.0015
+151.236.14.140 - - [19/Nov/2013 09:53:12] "GET /azenv.php HTTP/1.1" 404 453 0.0015
+[2013-11-19 09:53:33] ERROR bad Request-Line `\x04\x01\x00PÆ1BŠ0\x00'.
+[2013-11-19 09:53:54] ERROR bad Request-Line `\x05\x01\x00'.
+60.173.14.88 - - [19/Nov/2013 10:24:20] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-19 10:24:20] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [19/Nov/2013 12:25:54] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-19 12:25:54] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+61.160.200.54 - - [19/Nov/2013 13:11:33] "GET /manager/html HTTP/1.1" 404 453 0.0015
+60.173.14.88 - - [19/Nov/2013 13:51:06] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-19 13:51:07] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+221.174.16.100 - - [19/Nov/2013 14:36:41] "HEAD / HTTP/1.1" 401 15 0.0012
+60.173.14.88 - - [19/Nov/2013 17:12:40] "GET / HTTP/1.1" 401 15 0.0142
+[2013-11-19 17:12:40] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+61.160.200.54 - - [19/Nov/2013 22:34:53] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [20/Nov/2013 00:50:32] "GET / HTTP/1.1" 401 15 0.0022
+[2013-11-20 00:50:33] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+166.111.132.196 - - [20/Nov/2013 01:00:26] "GET / HTTP/1.1" 304 - 0.0011
+166.111.132.196 - - [20/Nov/2013 01:00:26] "GET /app.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [20/Nov/2013 01:00:26] "GET /img/bower-logo.png HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [20/Nov/2013 01:00:28] "GET /submit.html HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [20/Nov/2013 01:00:29] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0089
+166.111.132.196 - - [20/Nov/2013 01:00:29] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0009
+166.111.132.196 - - [20/Nov/2013 01:00:29] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [20/Nov/2013 01:00:29] "GET /images/body-bg.jpg HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [20/Nov/2013 01:00:59] "POST /upload HTTP/1.1" 200 419 9.9088
+166.111.132.196 - - [20/Nov/2013 01:02:33] "POST /upload HTTP/1.1" 200 417 9.0027
+166.111.132.196 - - [20/Nov/2013 01:03:11] "GET /submit.html HTTP/1.1" 304 - 0.0019
+166.111.132.196 - - [20/Nov/2013 01:03:12] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [20/Nov/2013 01:03:12] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.2378
+166.111.132.196 - - [20/Nov/2013 01:03:12] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [20/Nov/2013 01:03:12] "GET /favicon.ico HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [20/Nov/2013 01:03:50] "POST /upload HTTP/1.1" 200 418 55.9705
+166.111.132.196 - - [20/Nov/2013 01:05:24] "POST /upload HTTP/1.1" 200 419 90.9328
+166.111.132.196 - - [20/Nov/2013 01:13:47] "POST /upload HTTP/1.1" 200 467 423.4705
+60.173.14.88 - - [20/Nov/2013 02:13:57] "GET / HTTP/1.1" 401 15 0.0015
+[2013-11-20 02:13:57] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+109.68.190.145 - - [20/Nov/2013 02:44:54] "GET / HTTP/1.1" 401 15 0.0013
+60.173.14.88 - - [20/Nov/2013 04:50:46] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-20 04:50:46] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+66.85.144.237 - - [20/Nov/2013 06:14:49] "GET / HTTP/1.1" 401 15 0.0018
+54.245.33.122 - - [20/Nov/2013 06:27:27] "GET / HTTP/1.1" 401 15 0.0012
+54.245.33.122 - - [20/Nov/2013 06:27:41] "GET / HTTP/1.1" 200 2437 0.0092
+54.245.33.122 - - [20/Nov/2013 06:27:47] "GET /img/bower-logo.png HTTP/1.1" 200 23176 0.0213
+54.245.33.122 - - [20/Nov/2013 06:27:47] "GET /app.css HTTP/1.1" 200 3761 0.0117
+54.245.33.122 - - [20/Nov/2013 06:27:56] "GET /favicon.ico HTTP/1.1" 200 1150 0.0025
+54.245.33.122 - - [20/Nov/2013 06:28:30] "GET /submit.html HTTP/1.1" 200 5034 0.0016
+54.245.33.122 - - [20/Nov/2013 06:28:31] "GET /stylesheets/stylesheet.css HTTP/1.1" 200 8753 0.0016
+54.245.33.122 - - [20/Nov/2013 06:28:37] "GET /stylesheets/pygment_trac.css HTTP/1.1" 200 4168 0.0015
+54.245.33.122 - - [20/Nov/2013 06:28:44] "GET /images/body-bg.jpg HTTP/1.1" 200 3188 0.0086
+54.245.33.122 - - [20/Nov/2013 06:28:49] "GET /stylesheets/print.css HTTP/1.1" 200 3243 0.0028
+54.245.33.122 - - [20/Nov/2013 06:28:59] "GET /example.cpp HTTP/1.1" 200 1495 0.0140
+TypeError - no implicit conversion of Symbol into Integer:
+	/home/ubuntu/reminer/upload.rb:49:in `[]'
+	/home/ubuntu/reminer/upload.rb:49:in `file_info'
+	/home/ubuntu/reminer/upload.rb:35:in `block in <top (required)>'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `block in compile!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `[]'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (3 levels) in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:976:in `route_eval'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (2 levels) in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:997:in `block in process_route'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `process_route'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:955:in `block in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `each'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1067:in `block in dispatch!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1064:in `dispatch!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `block in call!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `call!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:877:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/xss_header.rb:18:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/path_traversal.rb:16:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/json_csrf.rb:18:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/base.rb:50:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/base.rb:50:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/frame_options.rb:31:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/logger.rb:15:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:210:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/show_exceptions.rb:21:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:180:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:2004:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `block in call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1778:in `synchronize'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:217:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+54.245.33.122 - - [20/Nov/2013 06:30:33] "POST /upload HTTP/1.1" 500 150761 0.0976
+89.46.161.210 - - [20/Nov/2013 06:45:07] "GET /w00tw00t.at.ISC.SANS.Win32:) HTTP/1.1" 404 503 0.0017
+60.173.14.88 - - [20/Nov/2013 07:03:02] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-20 07:03:03] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [20/Nov/2013 09:18:13] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-20 09:18:13] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [20/Nov/2013 11:10:48] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-20 11:10:49] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+120.199.66.198 - - [20/Nov/2013 12:17:23] "GET /manager/html HTTP/1.1" 404 453 0.0015
+219.232.243.142 - - [20/Nov/2013 14:31:47] "GET /manager/html HTTP/1.1" 404 453 0.0013
+219.232.243.142 - - [20/Nov/2013 14:31:51] "GET /manager/html HTTP/1.1" 404 453 0.0023
+60.173.14.88 - - [20/Nov/2013 15:00:45] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-20 15:00:45] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+222.186.56.18 - - [20/Nov/2013 21:26:38] "GET /manager/html HTTP/1.1" 404 453 0.0383
+178.63.152.100 - - [20/Nov/2013 22:17:18] "GET / HTTP/1.1" 401 15 0.0012
+60.173.14.88 - - [21/Nov/2013 00:14:29] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-21 00:14:29] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+166.111.132.196 - - [21/Nov/2013 02:14:59] "GET / HTTP/1.1" 304 - 0.0013
+166.111.132.196 - - [21/Nov/2013 02:14:59] "GET /app.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [21/Nov/2013 02:14:59] "GET /img/bower-logo.png HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [21/Nov/2013 02:15:04] "GET /submit.html HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [21/Nov/2013 02:15:04] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [21/Nov/2013 02:15:04] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [21/Nov/2013 02:15:05] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [21/Nov/2013 02:15:06] "GET /images/body-bg.jpg HTTP/1.1" 304 - 0.0009
+60.173.14.88 - - [21/Nov/2013 04:35:01] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-21 04:35:01] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+89.46.161.210 - - [21/Nov/2013 05:08:46] "GET /w00tw00t.at.ISC.SANS.Win32:) HTTP/1.1" 404 503 0.0014
+60.173.14.88 - - [21/Nov/2013 07:19:39] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-21 07:19:39] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+121.56.219.83 - - [21/Nov/2013 08:18:13] "GET /robots.txt HTTP/1.1" 404 446 0.0015
+60.173.14.88 - - [21/Nov/2013 10:22:43] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-21 10:22:43] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+192.74.250.85 - - [21/Nov/2013 10:40:28] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [21/Nov/2013 12:46:28] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-21 12:46:29] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [21/Nov/2013 14:00:29] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-21 14:00:29] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [21/Nov/2013 15:52:05] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-21 15:52:05] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [22/Nov/2013 00:22:10] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-22 00:22:10] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [22/Nov/2013 02:34:50] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-22 02:34:50] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+166.111.132.196 - - [22/Nov/2013 02:51:31] "GET / HTTP/1.1" 304 - 0.0012
+166.111.132.196 - - [22/Nov/2013 02:51:31] "GET /app.css HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [22/Nov/2013 02:51:31] "GET /img/bower-logo.png HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [22/Nov/2013 02:51:33] "GET /submit.html HTTP/1.1" 304 - 0.0010
+166.111.132.196 - - [22/Nov/2013 02:51:33] "GET /stylesheets/stylesheet.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [22/Nov/2013 02:51:34] "GET /stylesheets/pygment_trac.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [22/Nov/2013 02:51:34] "GET /stylesheets/print.css HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [22/Nov/2013 02:51:34] "GET /images/body-bg.jpg HTTP/1.1" 304 - 0.0008
+166.111.132.196 - - [22/Nov/2013 02:52:17] "POST /upload HTTP/1.1" 200 621 27.9102
+166.111.132.196 - - [22/Nov/2013 02:52:30] "GET /output.html HTTP/1.1" 200 3796 0.4749
+TypeError - no implicit conversion of Symbol into Integer:
+	/home/ubuntu/reminer/upload.rb:49:in `[]'
+	/home/ubuntu/reminer/upload.rb:49:in `file_info'
+	/home/ubuntu/reminer/upload.rb:35:in `block in <top (required)>'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `block in compile!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `[]'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (3 levels) in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:976:in `route_eval'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (2 levels) in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:997:in `block in process_route'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `process_route'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:955:in `block in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `each'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1067:in `block in dispatch!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1064:in `dispatch!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `block in call!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `call!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:877:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/xss_header.rb:18:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/path_traversal.rb:16:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/json_csrf.rb:18:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/base.rb:50:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/base.rb:50:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/frame_options.rb:31:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/logger.rb:15:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:210:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/show_exceptions.rb:21:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:180:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:2004:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `block in call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1778:in `synchronize'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:217:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+166.111.132.196 - - [22/Nov/2013 02:52:46] "POST /upload HTTP/1.1" 500 150584 3.9639
+166.111.132.196 - - [22/Nov/2013 02:54:22] "POST /upload HTTP/1.1" 200 623 131.2720
+TypeError - no implicit conversion of Symbol into Integer:
+	/home/ubuntu/reminer/upload.rb:49:in `[]'
+	/home/ubuntu/reminer/upload.rb:49:in `file_info'
+	/home/ubuntu/reminer/upload.rb:35:in `block in <top (required)>'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1593:in `block in compile!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `[]'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (3 levels) in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:976:in `route_eval'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:957:in `block (2 levels) in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:997:in `block in process_route'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:995:in `process_route'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:955:in `block in route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `each'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:954:in `route!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1067:in `block in dispatch!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1064:in `dispatch!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `block in call!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `block in invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `catch'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1049:in `invoke'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:889:in `call!'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:877:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/xss_header.rb:18:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/path_traversal.rb:16:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/json_csrf.rb:18:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/base.rb:50:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/base.rb:50:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-protection-1.5.1/lib/rack/protection/frame_options.rb:31:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/logger.rb:15:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:210:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/head.rb:11:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/methodoverride.rb:21:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/show_exceptions.rb:21:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:180:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:2004:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `block in call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1778:in `synchronize'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:1469:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/lint.rb:49:in `_call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/lint.rb:37:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/showexceptions.rb:24:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/commonlogger.rb:33:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/sinatra-1.4.4/lib/sinatra/base.rb:217:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/chunked.rb:43:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/content_length.rb:14:in `call'
+	/home/ubuntu/.rvm/gems/ruby-2.0.0-p247/gems/rack-1.5.2/lib/rack/handler/webrick.rb:60:in `service'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138:in `service'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:94:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+166.111.132.196 - - [22/Nov/2013 02:54:30] "POST /upload HTTP/1.1" 500 150584 0.6230
+183.60.48.25 - - [22/Nov/2013 03:35:42] "GET / HTTP/1.1" 401 15 0.0024
+60.173.14.88 - - [22/Nov/2013 04:40:32] "GET / HTTP/1.1" 401 15 0.0015
+[2013-11-22 04:40:32] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+123.151.149.222 - - [22/Nov/2013 04:46:52] "GET / HTTP/1.1" 401 15 0.0012
+60.173.14.88 - - [22/Nov/2013 06:32:07] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-22 06:32:08] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+218.28.221.113 - - [22/Nov/2013 06:34:04] "HEAD / HTTP/1.1" 401 15 0.0012
+60.173.14.88 - - [22/Nov/2013 09:08:37] "GET / HTTP/1.1" 401 15 0.0019
+[2013-11-22 09:08:38] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [22/Nov/2013 10:48:38] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-22 10:48:38] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [22/Nov/2013 12:04:03] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-22 12:04:03] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+120.192.101.25 - - [22/Nov/2013 12:33:09] "GET /manager/html HTTP/1.1" 404 453 0.0015
+60.173.14.88 - - [22/Nov/2013 13:49:57] "GET / HTTP/1.1" 401 15 0.0525
+[2013-11-22 13:49:57] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+120.192.101.25 - - [22/Nov/2013 15:23:40] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [22/Nov/2013 15:36:52] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-22 15:36:52] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [22/Nov/2013 18:09:05] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-22 18:09:06] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+151.236.6.214 - - [22/Nov/2013 18:22:35] "GET /azenv.php HTTP/1.1" 404 453 0.0015
+[2013-11-22 18:22:56] ERROR bad Request-Line `\x04\x01\x00PÆ1BŠ0\x00'.
+[2013-11-22 18:23:16] ERROR bad Request-Line `\x05\x01\x00'.
+183.63.53.84 - - [22/Nov/2013 19:09:39] "HEAD / HTTP/1.1" 401 15 0.0013
+60.173.14.88 - - [23/Nov/2013 00:03:24] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-23 00:03:24] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [23/Nov/2013 01:27:20] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-23 01:27:20] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [23/Nov/2013 02:49:39] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-23 02:49:39] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+[2013-11-23 04:36:16] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+110.246.186.186 - - [23/Nov/2013 04:36:18] "GET / HTTP/1.1" 401 15 0.0014
+60.173.14.88 - - [23/Nov/2013 05:01:07] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-23 05:01:08] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [23/Nov/2013 07:02:02] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-23 07:02:02] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [23/Nov/2013 08:19:05] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-23 08:19:05] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [23/Nov/2013 11:13:19] "GET / HTTP/1.1" 401 15 0.0012
+60.173.26.49 - - [23/Nov/2013 11:28:59] "GET /manager/html HTTP/1.1" 404 453 0.0015
+60.173.26.49 - - [23/Nov/2013 11:29:03] "GET /manager/html HTTP/1.1" 404 453 0.0014
+1.245.107.254 - - [23/Nov/2013 11:34:20] "GET /manager/html HTTP/1.1" 404 453 0.0014
+[2013-11-23 11:34:20] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.26.49 - - [23/Nov/2013 12:01:00] "GET /manager/html HTTP/1.1" 404 453 0.0020
+60.173.26.49 - - [23/Nov/2013 12:01:04] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [23/Nov/2013 12:54:59] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-23 12:55:00] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+61.147.112.88 - - [23/Nov/2013 12:58:07] "GET /manager/html HTTP/1.1" 404 453 0.0014
+[2013-11-23 20:50:26] ERROR bad URI `http://google.pl'.
+180.87.43.2 - - [23/Nov/2013 21:18:10] "HEAD / HTTP/1.1" 401 15 0.0012
+60.173.14.88 - - [24/Nov/2013 00:04:17] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-24 00:04:17] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [24/Nov/2013 02:00:15] "GET / HTTP/1.1" 401 15 0.0020
+[2013-11-24 02:00:16] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [24/Nov/2013 02:51:27] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-24 02:51:27] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [24/Nov/2013 07:41:30] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-24 07:41:30] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [24/Nov/2013 12:29:37] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-24 12:29:38] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+120.192.31.167 - - [24/Nov/2013 12:30:27] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [24/Nov/2013 14:46:30] "GET / HTTP/1.1" 401 15 0.0155
+[2013-11-24 14:46:30] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+120.192.101.25 - - [24/Nov/2013 16:36:24] "GET /manager/html HTTP/1.1" 404 453 0.0014
+120.192.31.167 - - [24/Nov/2013 20:35:15] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [25/Nov/2013 00:19:52] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-25 00:19:52] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+138.91.91.208 - - [25/Nov/2013 01:52:41] "HEAD / HTTP/1.1" 401 15 0.0012
+60.173.14.88 - - [25/Nov/2013 01:59:59] "GET / HTTP/1.1" 401 15 0.0013
+[2013-11-25 02:00:00] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [25/Nov/2013 07:09:40] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-25 07:09:40] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+120.192.101.25 - - [25/Nov/2013 08:14:32] "GET /manager/html HTTP/1.1" 404 453 0.0020
+222.186.34.208 - - [25/Nov/2013 10:46:04] "GET /manager/html HTTP/1.1" 404 453 0.0014
+183.63.53.84 - - [25/Nov/2013 12:31:32] "HEAD / HTTP/1.1" 401 15 0.0012
+60.173.14.88 - - [25/Nov/2013 13:40:03] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-25 13:40:03] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [25/Nov/2013 14:58:13] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-25 14:58:14] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [25/Nov/2013 15:45:40] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-25 15:45:40] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+192.74.250.121 - - [25/Nov/2013 18:28:18] "GET /manager/html HTTP/1.1" 404 453 0.0014
+60.173.14.88 - - [25/Nov/2013 23:48:08] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-25 23:48:08] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [26/Nov/2013 01:08:26] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-26 01:08:27] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [26/Nov/2013 02:21:32] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-26 02:21:33] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+60.173.14.88 - - [26/Nov/2013 05:46:47] "GET / HTTP/1.1" 401 15 0.0012
+[2013-11-26 05:46:47] ERROR Errno::ECONNRESET: Connection reset by peer
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `eof?'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:80:in `run'
+	/home/ubuntu/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/server.rb:295:in `block in start_thread'
+209.188.6.178 - - [26/Nov/2013 07:08:16] "GET /w00tw00t.at.ISC.SANS.DFind:) HTTP/1.1" 404 503 0.0014
+166.111.132.196 - - [26/Nov/2013 07:25:41] "GET / HTTP/1.1" 401 15 0.0012
+166.111.132.196 - - [26/Nov/2013 07:25:42] "GET / HTTP/1.1" 401 15 0.0012
+166.111.132.196 - - [26/Nov/2013 07:25:45] "GET / HTTP/1.1" 401 15 0.0013
+166.111.132.196 - - [26/Nov/2013 07:25:50] "GET / HTTP/1.1" 304 - 0.0011
+166.111.132.196 - - [26/Nov/2013 07:25:50] "GET /app.css HTTP/1.1" 304 - 0.0010
